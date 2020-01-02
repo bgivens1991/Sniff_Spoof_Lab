@@ -8,6 +8,7 @@ a network security course is to understand how these tools work, i.e., how packe
 implemented in software.
 The objective of this lab is two-fold: learning to use the tools and understanding the technologies underlying these tools. For the second object, students will write simple sniffer and spoofing programs, and gain
 an in-depth understanding of the technical aspects of these programs. This lab covers the following topics:
+
 • Scapy
 • Sniffing using the pcap library
 • Raw socket
